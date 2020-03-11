@@ -1,0 +1,2 @@
+# Optimization-of-TSP
+The travelling salesman problem (TSP) asks the following question: "Given a list of cities and the distances between each pair of cities, what is the shortest possible route that visits each city once and returns to the origin city?“. Being Popular problem, TSP can be solved by try every permutation and find which of them has shortest path. This trial method need optimization. Optimization of TSP can be done by many Optimization methods. We have done Genetic algorithm as optimization method.
